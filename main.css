@@ -1,0 +1,14 @@
+@font-face {
+    font-family: aero_matics_bold;
+    src: url("vendor/aero_matics/Aero Matics Bold.ttf");
+}
+
+@font-face {
+    font-family: aero_matics_regular;
+    src: url("vendor/aero_matics/Aero Matics Regular.ttf");
+}
+
+@font-face {
+    font-family: aero_matics_light;
+    src: url("vendor/aero_matics/Aero Matics Light.ttf");
+}
